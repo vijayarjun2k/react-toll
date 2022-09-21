@@ -52,8 +52,6 @@ export const Home = () => {
  */}
     <input type="text"  onChange={(e)=>setSearch(e.target.value)} placeholder='Search vehicle' />
   </label>
-  
-  <input type="submit" value="Submit" />
 </form><br/>
 
 <div> 
