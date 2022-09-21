@@ -1,0 +1,10 @@
+.h1{
+    text-align:center;
+    background-color: red;
+}
+.space {
+    width: 20px;
+    height: auto;
+    display: inline-block;
+  }
+  
